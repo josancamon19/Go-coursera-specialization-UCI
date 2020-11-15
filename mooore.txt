@@ -1,0 +1,9 @@
+Moore Law
+
+Basically says every 2 years the number of transistors gets doubled
+
+1. increase density, lead to increase power consumption on the chip, and increase the temperature which will melt the chip
+2. Dennard scaling can’t continue forever, voltage can’t go too low because:
+3. Voltage swing need to be higher than the threshold voltage of the transistor.
+4. Need keep noise tolerant
+5. Leakage power increase over time
