@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67b0daca-5c5f-480a-88c2-3f166893505b" name="Default Changelist" comment="README.md Course 1 and Course 2 half">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="67b0daca-5c5f-480a-88c2-3f166893505b" name="Default Changelist" comment="specialization README completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,10 +51,10 @@
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -129,7 +127,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="README.md Course 1 and Course 2 half" />
-    <option name="LAST_COMMIT_MESSAGE" value="README.md Course 1 and Course 2 half" />
+    <MESSAGE value="specialization README completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="specialization README completed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-913" y="116" key="Github.ShareDialog" timestamp="1605452271730">
@@ -168,10 +167,10 @@
     <state width="1878" height="305" key="GridCell.Tab.0.right/0.23.1280.777/-1920.-103.1920.1002@-1920.-103.1920.1002" timestamp="1605235714687" />
     <state width="1878" height="394" key="GridCell.Tab.0.right/0.25.1280.714/-1920.-101.1920.1055@-1920.-101.1920.1055" timestamp="1605384170955" />
     <state width="1878" height="305" key="GridCell.Tab.0.right/0.25.1280.775/-1920.-101.1920.994@-1920.-101.1920.994" timestamp="1605365957424" />
-    <state x="-1360" y="151" key="Vcs.Push.Dialog.v2" timestamp="1605474265389">
+    <state x="-1360" y="151" key="Vcs.Push.Dialog.v2" timestamp="1605540108088">
       <screen x="-1920" y="-126" width="1920" height="1080" />
     </state>
-    <state x="-1360" y="151" key="Vcs.Push.Dialog.v2/0.0.1280.800/-1920.-126.1920.1080@-1920.-126.1920.1080" timestamp="1605474265389" />
+    <state x="-1360" y="151" key="Vcs.Push.Dialog.v2/0.0.1280.800/-1920.-126.1920.1080@-1920.-126.1920.1080" timestamp="1605540108088" />
     <state x="-1295" y="115" width="670" height="676" key="search.everywhere.popup" timestamp="1604976000663">
       <screen x="-1920" y="-126" width="1920" height="1080" />
     </state>
